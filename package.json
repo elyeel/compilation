@@ -1,0 +1,11 @@
+{
+	"name": "compilation",
+	"version": "1.0.0",
+	"description": "HTML-CSS-JS Project Compilation",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Risyardi Iswanto",
+	"license": "ISC"
+}
